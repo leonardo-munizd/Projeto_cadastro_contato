@@ -6,11 +6,7 @@ Este é um projeto simples para cadastro de nomes e telefones de contato. O sist
 
 Tecnologias Utilizadas
 
-HTML, CSS e JavaScript (Frontend)
-
-Node.js com Express (Backend)
-
-Banco de Dados (SQLite, MongoDB ou MySQL, dependendo da implementação)
+HTML, CSS e JavaScript 
 
 Funcionalidades
 
