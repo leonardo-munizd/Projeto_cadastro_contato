@@ -1,14 +1,14 @@
-Projeto de Cadastro de Contatos
+#**Projeto de Cadastro de Contatos**
 
-Descrição
+**Descrição**<br>  
 
 Este é um projeto simples para cadastro de nomes e telefones de contato. O sistema permite adicionar, listar, editar e excluir contatos, garantindo uma gestão eficiente e organizada.
 
-Tecnologias Utilizadas
+**Tecnologias Utilizadas**<br>  
 
 HTML, CSS e JavaScript 
 
-Funcionalidades
+**Funcionalidades**<br>  
 
 Adicionar novos contatos
 
